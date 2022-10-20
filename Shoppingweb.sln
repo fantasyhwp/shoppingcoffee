@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoppingweb", "Shoppingweb\Shoppingweb.csproj", "{7EA0FE8B-B810-444D-A1CE-7BA0D0F2D9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EA0FE8B-B810-444D-A1CE-7BA0D0F2D9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA0FE8B-B810-444D-A1CE-7BA0D0F2D9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA0FE8B-B810-444D-A1CE-7BA0D0F2D9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA0FE8B-B810-444D-A1CE-7BA0D0F2D9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {306BA18F-A8A9-4F54-BB0F-B76E7747962C}
+	EndGlobalSection
+EndGlobal
